@@ -19,7 +19,7 @@ function App() {
         <Navbar />
         <div className="pt-16">
           <Routes>
-            <Route path="/" element={
+            <Route path="/prdcraft" element={
               <>
                 <Hero />
                 <Services />
